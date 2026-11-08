@@ -24,11 +24,6 @@ A small learning project: starting from public TESS photometry of the eclipsing 
 | Depth from data near mid-eclipse (median) | 0.372 | direct estimate from folded points |
 | Eclipse width | σ = 0.070 d, FWHM = 0.165 d (about 4 h) | Gaussian fit |
 
-**Plots** :
-
-- figures/algol_raw_lightcurve.png: raw light curve
-- figures/folded_with_fit.png: folded light curve with the Gaussian fit
-- figures/residuals.png: fit residuals
 
 ## Interpretation
 
