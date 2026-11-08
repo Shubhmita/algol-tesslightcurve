@@ -26,7 +26,7 @@ A small learning project: starting from public TESS photometry of the eclipsing 
 
 **Plots** :
 
-- figures/algol_raw_lightcurve.png'\: raw light curve
+- figures/algol_raw_lightcurve.png: raw light curve
 - figures/folded_with_fit.png: folded light curve with the Gaussian fit
 - figures/residuals.png: fit residuals
 
